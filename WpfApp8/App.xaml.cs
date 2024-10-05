@@ -10,4 +10,3 @@ namespace WpfApp8;
 public partial class App : Application
 {
 }
-
